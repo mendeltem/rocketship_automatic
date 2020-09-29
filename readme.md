@@ -14,6 +14,8 @@ Man muss nur die Pfade zu Daten eintragen.
 
 https://www.youtube.com/watch?v=a_986KPguXM&t=5s&ab_channel=UTemuulen
 
+![Shopping Cart Demo](vid.gif)
+
 ## Installation
 Um das Software zu benutzen braucht man Matlab.  (Wir benutzen die Version R2018a)
 
